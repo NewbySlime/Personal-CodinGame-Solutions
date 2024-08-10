@@ -1,0 +1,1 @@
+-Return to Skynet Revolution and try using BFS(block the shortest path to gateway(by using this way, there's a chance the agent will be stuck))

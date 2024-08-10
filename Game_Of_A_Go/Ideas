@@ -1,0 +1,5 @@
+-Using liberties as the defeating point (Stones got removed)
+if the all liberties is captured by opposing rocks, then the rocks that defeated is removed
+-Use a checking whether it can be placed or not. (Field not free, Ko rule)
+-Before it's going to placed on the board, check the sides. (Suicidal move)
+if it's covered by opposite rocks, then pass. and count it as removed
